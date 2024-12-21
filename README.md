@@ -1,1 +1,1 @@
-# snow-project
+# Snow-Detection-System
