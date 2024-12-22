@@ -53,6 +53,7 @@
 ### 환경설정 방법
 1. 아나콘다 3.12 버전 설치 > 가상환경 설정
 2. pip install tensorflow==2.12.1
+3. pip install opencv-python
 
 
 ---
