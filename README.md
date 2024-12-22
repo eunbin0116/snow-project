@@ -16,7 +16,7 @@
 
 | 이름          | 역할           | GitHub Profile                                          |
 |--------------|----------------|----------------------------------------------------------|
-| 윤은빈        | 대표 / 프론트 | [@eunbin](https://github.com/eunbin0116/eunbin)            |
+| 윤은빈        | 대표 / 백엔드| [@eunbin](https://github.com/eunbin0116/eunbin)            |
 | 최선호        | 모델 학습   | [@CSH0805](https://github.com/CSH0805)                       |
 | 박수찬        | 데이터 수집     | [@vsssksvss](https://github.com/vsssksvss/vsssksvss)     |
 | 윤상림        | 데이터 수집  | [@younsanglim](https://github.com/younsanglim)              |
